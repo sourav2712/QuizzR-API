@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "difficulty": 1,
+        "question": "Which is the Smallest Country in the World?",
+        "a": "Maldives",
+        "b": "Monaco",
+        "c": "Vatican City",
+        "d": "Montenegro",
+        "answer": "c"
+    },
+    {
+        "id": 1,
+        "difficulty": 2,
+        "question": "What is the currency of the Kingdom of Saudi Arabia?",
+        "a": "Riyal",
+        "b": "Dinaar",
+        "c": "Dirham",
+        "d": "Shekel",
+        "answer": "a"
+    },
+    {
+        
+    }
+]
